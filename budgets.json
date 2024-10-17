@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1728993487062,
+    "clientId": 1728992387124,
+    "date": "2024-10-15",
+    "modules": [
+      {
+        "id": 1728992191217,
+        "title": "sdfsadf",
+        "description": "vzxcvxz",
+        "category": "sdfsad",
+        "price": 123,
+        "units": 1
+      },
+      {
+        "id": 1728992599032,
+        "title": "kñasndan",
+        "description": "sadvdfvdfvf",
+        "category": "sdfsad",
+        "price": 3424,
+        "imageUrl": "/uploads/1728992598991.webp",
+        "units": 1
+      }
+    ]
+  },
+  {
+    "id": 1728993487062,
+    "clientId": 1728992387124,
+    "date": "2024-10-15",
+    "modules": [
+      {
+        "id": 1728992191217,
+        "title": "sdfsadf",
+        "description": "vzxcvxz",
+        "category": "sdfsad",
+        "price": 123,
+        "units": 1
+      },
+      {
+        "id": 1728992599032,
+        "title": "kñasndan",
+        "description": "sadvdfvdfvf",
+        "category": "sdfsad",
+        "price": 3424,
+        "imageUrl": "/uploads/1728992598991.webp",
+        "units": 1
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "clientId": 1728992387124,
+    "date": "2024-10-18",
+    "modules": [
+      {
+        "id": 1728992191217,
+        "title": "sdfsadf",
+        "description": "vzxcvxz",
+        "category": "sdfsad",
+        "price": 123,
+        "units": 1
+      },
+      {
+        "id": 1728992191217,
+        "title": "sdfsadf",
+        "description": "vzxcvxz",
+        "category": "sdfsad",
+        "price": 123,
+        "units": 1
+      },
+      {
+        "id": 1728992191217,
+        "title": "sdfsadf",
+        "description": "vzxcvxz",
+        "category": "sdfsad",
+        "price": 123,
+        "units": 1
+      },
+      {
+        "id": 1728992599032,
+        "title": "kñasndan",
+        "description": "sadvdfvdfvf",
+        "category": "sdfsad",
+        "price": 3424,
+        "imageUrl": "/uploads/1728992598991.webp",
+        "units": 1
+      },
+      {
+        "id": 1728992599032,
+        "title": "kñasndan",
+        "description": "sadvdfvdfvf",
+        "category": "sdfsad",
+        "price": 3424,
+        "imageUrl": "/uploads/1728992598991.webp",
+        "units": 1
+      },
+      {
+        "id": 1728992599032,
+        "title": "kñasndan",
+        "description": "sadvdfvdfvf",
+        "category": "sdfsad",
+        "price": 3424,
+        "imageUrl": "/uploads/1728992598991.webp",
+        "units": 1
+      }
+    ]
+  },
+  {
+    "id": 1729003304772,
+    "clientId": 1728992387124,
+    "date": "2024-10-15",
+    "modules": [
+      {
+        "id": "0",
+        "title": "Demolición de solera de hormigón",
+        "description": "Excavación y demolición de zona de ascensor, hasta conseguir dimensiones suficientes para poder realizar instalación de ascensor, con medios manuales, hasta alcanzar la cota de profundidad indicada en el Proyecto. Incluso transporte de la maquinaria, retirada de los materiales excavados y carga a camión incluyendo transporte a vertedero y pago del canon correspondiente.\r\n",
+        "category": "CAP.01 – DEMOLICIÓN Y ALBAÑILERÍA",
+        "price": 234,
+        "imageUrl": "/uploads/1729003270024.webp",
+        "units": 1
+      },
+      {
+        "id": "0",
+        "title": "Demolición de paredes.",
+        "description": "Demolición de paramento vertical realizados en ladrillo cerámico hueco, consiguiendo dimensiones necesarias para la correcta instalación de ascensor, realizado por medios manuales ó mecánicos incluso transporte de escombros a vertedero autorizado.\r\n",
+        "category": "CAP.01 – DEMOLICIÓN Y ALBAÑILERÍA",
+        "price": 324,
+        "units": 1
+      }
+    ]
+  }
+]
